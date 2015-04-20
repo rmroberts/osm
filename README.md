@@ -1,5 +1,5 @@
-This script takes an osm file and parses it into edges, nodes, and geometry files, as described below.  It processes a 3.5 GB file in about 11 seconds.
-#How to Use osm
+This script takes an OSM file and parses it into edges, nodes, and geometry files, as described below.  It processes a 3.5 GB file in about 11 seconds.
+##How to Use osm
 - Place your osm file in the same directory as osm.py
 - Run this command ```python osm.py [name-of-your-osm-file].osm```
 
